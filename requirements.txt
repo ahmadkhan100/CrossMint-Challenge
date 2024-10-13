@@ -1,0 +1,4 @@
+requests==2.32.3
+logging
+python_version >= 3.10
+concurrent-log-handler==0.9.25
